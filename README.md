@@ -97,11 +97,6 @@
 以下文稿將價目寫入合適嗎?
 https://www.learnbydoing.info/single-post/lbdpp
 #
-#
-#
-#
-#
-#
 Learn by Doing 做中學
 Learn by Doing (learnbydoing.info)是由一班香港工程師學會的註冊工程師開始, 成立於2017年。成員包括工程師、designer、教師等專業人仕。
 我們的願景是透過科技能使盡量多的人受益，提供服務以及機會，促進兒童、在學在職人仕、銀髮金齡族都同樣參與，以提供培訓、工作機會、和交流活動，能促進大家與社會連接，使大家都能享受到更多資源。
