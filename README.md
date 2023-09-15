@@ -262,6 +262,22 @@ Request from Jennie Yan
 學習積木編程以及 Python 編程，設計並建立智慧城市互動遊戲，教授學生使用積木編程以及Python語言來進行Minecraft遊戲的編程。透過這個課程，學生將學習基礎的積木編程和Python編程概念和技巧，並將其應用於Minecraft的遊戲世界中建立智慧城市，創造出自己的智慧城市並將互動元素放入遊戲。Minecraft Edu的遊戲可以用虛擬實境(Virtual Reality)或以混合實境(Mixed Reality)作互動遊戲學習。
 Minecraft Edu 遊戲編程   共10堂 每堂1小時    每堂$1,800.0   ->  $18,000.0         *這10萬元參考組合可視學生人數需求調整
 
+Email date: 15 Sept 2023 
+Hi, Jennie,
+
+希望對於QEF的十萬元預算，特別是STEM LAB VR/AR/MR設備，能提出以下建議。請詳細查閱：
+
+十部頭戴式顯示器：Meta Quest 2：每部3,200.0元，數量：10，小計：32,000.0元
+
+兩套混合實境設備： Microsoft Hololens 2：每套28,000.0元，數量：2，小計：56,000.0元
+
+一套混合實境軟件：Microsoft Minecraft Education Version：每位使用者每月58元，小計：每人每年696.0元
+
+Minecraft Edu智慧城市遊戲課程：總共10堂課，每堂1小時, 每小時費用：1,800.0元，小計：18,000.0元
+
+Minecraft Edu智慧城市遊戲課程簡介：該課程旨在教授學生積木編程和Python編程，讓他們設計並建立互動式智慧城市遊戲。學生將學習使用積木編程和Python語言編程Minecraft遊 戲。透過該課程，學生將掌握積木編程和Python編程的基礎概念和技巧，並將其應用於Minecraft遊戲世界中建立智慧城市，創造出屬於自己的智慧城市，並將互動元素融入遊戲中。Minecraft Edu的遊戲可以透過虛擬實（VR）或混合實境（MR）進行互動式學習。
+
+感謝對以上建議的關注。若需要進一步的資訊或澄清，請隨時告知。
 
 Request from Ernest &　
 課程名稱：Midjourney故事創作與繪本製作
