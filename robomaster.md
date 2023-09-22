@@ -23,4 +23,4 @@ RoboMaster EP Core 配備四個感應器轉接模組，能輕鬆連接第三方�
 
 Reference:
 1. Robomaster developer guide, https://robomaster-dev.readthedocs.io/en/latest/
-2. 
+2. Purchase by send requirement to marketing.education@dji.com
