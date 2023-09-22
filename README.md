@@ -398,4 +398,6 @@ STEAM 教學小夥伴
 LED 4粒
 心意卡
 
+DF Robot micro:bit 獨角仙仿生學
+https://www.dfrobot.com/product-2128.html
 
