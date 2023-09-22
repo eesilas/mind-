@@ -16,5 +16,11 @@ EP Core 配備四個麥克納姆輪，每個輪子都有 12 個輥筒，可實�
 高性能馬達
 EP Core 配備訂製馬達，整合 FOC ESC，輸出扭矩高達 250 mN•m。具有進階演算法的線性霍爾效應感應器允許封閉迴路控制，能夠提高精度。額外的安全機制可提供卓越的穩定性。
 
+RoboMaster EP Core 支援外接 Micro:bit、Arduino 及 Raspberry Pi 等第三方開源硬體。這些項目可以透過底盤主控板上的序列連接埠連接和供電。EP Core 還可以透過 NVIDIA Jetson Nano 和官方 DJI SDK 等 AI 平台進行模型訓練和場景辨識，強化學生對 AI 運作原理的理解。
 
+相容第三方感應器
+RoboMaster EP Core 配備四個感應器轉接模組，能輕鬆連接第三方感應器並為其供電，獲得溫度、壓力、距離等測量輸入。感應器資料甚至可以在 Scratch 中使用，為程式設計解鎖無限可能性。
 
+Reference:
+1. Robomaster developer guide, https://robomaster-dev.readthedocs.io/en/latest/
+2. 
