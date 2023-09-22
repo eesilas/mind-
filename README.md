@@ -400,4 +400,6 @@ LED 4粒
 
 DF Robot micro:bit 獨角仙仿生學
 https://www.dfrobot.com/product-2128.html
-
+https://wiki.dfrobot.com/_SKU_ROB0156-B_microMaqueen_Mechanic_Beetle
+Liftable mechanical beetle
+智能倉庫  獨角仙運貸    仿生學
