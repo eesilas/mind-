@@ -59,6 +59,8 @@ Code Lab: https://codelab.nuwarobotics.com/
   對話訓練室
   費用另議
 
+雲端開發工具:
+https://support.nuwarobotics.com/zh-hant/docs/biztools/trainkit/
 
 
 
