@@ -62,8 +62,8 @@ Code Lab: https://codelab.nuwarobotics.com/
 雲端開發工具:
 https://support.nuwarobotics.com/zh-hant/docs/biztools/trainkit/
 
-
-
+測體溫:
+https://support.nuwarobotics.com/zh-hant/docs/nuwa_ocular/introduction/
 
 
 
