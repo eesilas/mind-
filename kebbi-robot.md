@@ -65,7 +65,11 @@ https://support.nuwarobotics.com/zh-hant/docs/biztools/trainkit/
 測體溫:
 https://support.nuwarobotics.com/zh-hant/docs/nuwa_ocular/introduction/
 
-
+技能中心 --對話
+程式實驗室
+解鎖成就 ~ 成就系統
+facebook.com/NuwaRobotoics
+google app 女媧玩轉基地
 
 
  
